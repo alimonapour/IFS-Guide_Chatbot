@@ -45,7 +45,7 @@ cp  .env.example .env.local
 - **UI Libraries**: React, Tailwind CSS (optional, for styling).
 - **TypeScript**: A superset of JavaScript that adds static types, enhancing
   code quality and maintainability in the React app.
-- - Tailwind CSS - A utility-first CSS framework.
+- Tailwind CSS - A utility-first CSS framework.
 - **Prettiier**: Code formatting is maintained with Prettier, ensuring a
   consistent and clean codebase.
 
